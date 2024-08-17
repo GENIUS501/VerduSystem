@@ -1,0 +1,519 @@
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.About.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.Ayuda.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.BitacoraMovimientos.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.BitacoraSesiones.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ListaClientes.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ListaProductos.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ListaRoles.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ListaTipoProducto.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ListaUsuarios.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.Login.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoClientes.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoProductos.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoRoles.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoTipoProductos.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoUsuarios.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.Menu.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ProcesoDevolucion.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ProcesoVentas.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.Properties.Resources.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ReporteClientes.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ReporteDevoluciones.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.ReporteVentas.resources
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Lienzos.exe.config
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Lienzos.exe
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Lienzos.pdb
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\EnvDTE.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\stdole.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\EnvDTE.xml
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Diamond.csproj.CopyComplete
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.exe
+C:\Users\Dell\Desktop\Diamond\Diamond\obj\Debug\Lienzos.pdb
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Negocios.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\AccesoDatos.dll
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\Negocios.pdb
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\AccesoDatos.pdb
+C:\Users\Dell\Desktop\Diamond\Diamond\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Lienzos.exe.config
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Lienzos.exe
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Lienzos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\EnvDTE.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\stdole.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Microsoft.MSXML.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.About.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Ayuda.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.BitacoraMovimientos.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.BitacoraSesiones.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaClientes.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaProductos.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaRoles.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaTipoProducto.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaUsuarios.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Login.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoClientes.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoProductos.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoRoles.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoTipoProductos.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoUsuarios.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Menu.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ProcesoDevolucion.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ProcesoVentas.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Properties.Resources.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteClientes.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteDevoluciones.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteVentas.resources
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.exe
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\obj\Debug\Lienzos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Lienzos.exe.config
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Lienzos.exe
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Lienzos.pdb
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Entidades.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Negocios.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\EnvDTE.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\stdole.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Entidades.pdb
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\Negocios.pdb
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.pdb
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.dll.config
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.About.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Ayuda.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.BitacoraMovimientos.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.BitacoraSesiones.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaClientes.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaProductos.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaRoles.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaTipoProducto.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaUsuarios.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Login.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoClientes.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoProductos.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoRoles.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoTipoProductos.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoUsuarios.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Menu.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ProcesoDevolucion.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ProcesoVentas.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Properties.Resources.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteClientes.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteDevoluciones.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteVentas.resources
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.CopyComplete
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.exe
+C:\Users\cris_\Documents\Ingeneria sistemas bachi utc\8 cuatrimestre\Proyecto Final\Diamond\Diamond\Diamond\obj\Debug\Lienzos.pdb
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Lienzos.exe.config
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Lienzos.exe
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Lienzos.pdb
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\EnvDTE.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\stdole.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Microsoft.MSXML.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.About.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Ayuda.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.BitacoraMovimientos.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.BitacoraSesiones.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaClientes.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaProductos.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaRoles.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaTipoProducto.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ListaUsuarios.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Login.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoClientes.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoProductos.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoRoles.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoTipoProductos.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.MantenimientoUsuarios.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Menu.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ProcesoDevolucion.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ProcesoVentas.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.Properties.Resources.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteClientes.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteDevoluciones.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.ReporteVentas.resources
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Diamond.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.exe
+C:\Users\50683\Desktop\Diamond (4)\Diamond\Diamond\Diamond\obj\Debug\Lienzos.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Lienzos.exe.config
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Lienzos.exe
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Lienzos.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\EnvDTE.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\stdole.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Microsoft.MSXML.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.csproj.SuggestedBindingRedirects.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.About.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.Ayuda.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.BitacoraMovimientos.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.BitacoraSesiones.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ListaClientes.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ListaProductos.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ListaRoles.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ListaTipoProducto.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ListaUsuarios.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.Login.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.MantenimientoClientes.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.MantenimientoProductos.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.MantenimientoRoles.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.MantenimientoTipoProductos.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.MantenimientoUsuarios.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.Menu.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ProcesoDevolucion.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ProcesoVentas.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Lienzos.Properties.Resources.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ReporteClientes.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ReporteDevoluciones.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.ReporteVentas.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.Visor_Factura.resources
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.csproj.GenerateResource.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Diamond.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Lienzos.exe
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Diamond\obj\Debug\Lienzos.pdb

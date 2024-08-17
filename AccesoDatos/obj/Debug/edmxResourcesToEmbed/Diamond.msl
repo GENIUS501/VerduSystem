@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DiamondModelStoreContainer" CdmEntityContainer="DiamondEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DiamondModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Bitacora_Movimientos">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Bitacora_Movimientos">
+        <MappingFragment StoreEntitySet="Tab_Bitacora_Movimientos">
+          <ScalarProperty Name="codigo_movimiento_usuario" ColumnName="codigo_movimiento_usuario" />
+          <ScalarProperty Name="fecha_hora_movimiento" ColumnName="fecha_hora_movimiento" />
+          <ScalarProperty Name="tipo_movimiento" ColumnName="tipo_movimiento" />
+          <ScalarProperty Name="modulo" ColumnName="modulo" />
+          <ScalarProperty Name="Id_Usuario" ColumnName="Id_Usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Bitacora_Sesiones">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Bitacora_Sesiones">
+        <MappingFragment StoreEntitySet="Tab_Bitacora_Sesiones">
+          <ScalarProperty Name="codigo_ingreso_salida" ColumnName="codigo_ingreso_salida" />
+          <ScalarProperty Name="fecha_hora_ingreso" ColumnName="fecha_hora_ingreso" />
+          <ScalarProperty Name="fecha_hora_salida" ColumnName="fecha_hora_salida" />
+          <ScalarProperty Name="Id_Usuario" ColumnName="Id_Usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Clientes">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Clientes">
+        <MappingFragment StoreEntitySet="Tab_Clientes">
+          <ScalarProperty Name="Numero_Cliente" ColumnName="Numero_Cliente" />
+          <ScalarProperty Name="Cedula" ColumnName="Cedula" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Primer_Apellido" ColumnName="Primer_Apellido" />
+          <ScalarProperty Name="Segundo_Apellido" ColumnName="Segundo_Apellido" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Devoluciones">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Devoluciones">
+        <MappingFragment StoreEntitySet="Tab_Devoluciones">
+          <ScalarProperty Name="IdDevolucion" ColumnName="IdDevolucion" />
+          <ScalarProperty Name="IdVenta" ColumnName="IdVenta" />
+          <ScalarProperty Name="IDCliente" ColumnName="IDCliente" />
+          <ScalarProperty Name="FechaDevolucion" ColumnName="FechaDevolucion" />
+          <ScalarProperty Name="CantidadProducto" ColumnName="CantidadProducto" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Permisos">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Permisos">
+        <MappingFragment StoreEntitySet="Tab_Permisos">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Modulo" ColumnName="Modulo" />
+          <ScalarProperty Name="Accion" ColumnName="Accion" />
+          <ScalarProperty Name="Id_Rol" ColumnName="Id_Rol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Productos">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Productos">
+        <MappingFragment StoreEntitySet="Tab_Productos">
+          <ScalarProperty Name="ID_Producto" ColumnName="ID_Producto" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="ID_Tipo_Producto" ColumnName="ID_Tipo_Producto" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Imagen" ColumnName="Imagen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Roles">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Roles">
+        <MappingFragment StoreEntitySet="Tab_Roles">
+          <ScalarProperty Name="Id_Rol" ColumnName="Id_Rol" />
+          <ScalarProperty Name="Nombre_Rol" ColumnName="Nombre_Rol" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Tipo_Productos">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Tipo_Productos">
+        <MappingFragment StoreEntitySet="Tab_Tipo_Productos">
+          <ScalarProperty Name="ID_Tipo_Producto" ColumnName="ID_Tipo_Producto" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Usuarios">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Usuarios">
+        <MappingFragment StoreEntitySet="Tab_Usuarios">
+          <ScalarProperty Name="ID_Usuario" ColumnName="ID_Usuario" />
+          <ScalarProperty Name="Cedula" ColumnName="Cedula" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Primer_Apellido" ColumnName="Primer_Apellido" />
+          <ScalarProperty Name="Segundo_Apellido" ColumnName="Segundo_Apellido" />
+          <ScalarProperty Name="Nombre_Usuario" ColumnName="Nombre_Usuario" />
+          <ScalarProperty Name="Id_Rol" ColumnName="Id_Rol" />
+          <ScalarProperty Name="Contrasena" ColumnName="Contrasena" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Venta">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Venta">
+        <MappingFragment StoreEntitySet="Tab_Venta">
+          <ScalarProperty Name="ID_Usuario" ColumnName="ID_Usuario" />
+          <ScalarProperty Name="ID_Cliente" ColumnName="ID_Cliente" />
+          <ScalarProperty Name="Tipo_pago" ColumnName="Tipo_pago" />
+          <ScalarProperty Name="Numero_factura" ColumnName="Numero_factura" />
+          <ScalarProperty Name="CantidadProducto" ColumnName="CantidadProducto" />
+          <ScalarProperty Name="Fecha_venta" ColumnName="Fecha_venta" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tab_Venta_detallada">
+      <EntityTypeMapping TypeName="DiamondModel.Tab_Venta_detallada">
+        <MappingFragment StoreEntitySet="Tab_Venta_detallada">
+          <ScalarProperty Name="Numero_factura" ColumnName="Numero_factura" />
+          <ScalarProperty Name="ID_Producto" ColumnName="ID_Producto" />
+          <ScalarProperty Name="Linea" ColumnName="Linea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

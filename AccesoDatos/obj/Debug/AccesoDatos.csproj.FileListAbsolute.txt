@@ -1,0 +1,215 @@
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Dell\Desktop\Diamond\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\EnvDTE.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\stdole.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond\Diamond\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\EnvDTE.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\stdole.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\EnvDTE.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\stdole.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\EnvDTE.xml
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\obj\Debug\AccesoDatos.csproj.CopyComplete
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\AccesoDatos\obj\Debug\AccesoDatos.pdb

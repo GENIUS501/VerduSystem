@@ -1,0 +1,18 @@
+C:\Users\Dell\Desktop\Diamond\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Diamond\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Diamond\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Diamond\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Diamond\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Diamond\Entidades\obj\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Entidades\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Entidades\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Entidades\obj\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\bin\Debug\Entidades.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Debug\Entidades.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Debug\Entidades.pdb

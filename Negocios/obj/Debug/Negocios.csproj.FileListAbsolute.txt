@@ -1,0 +1,68 @@
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\Negocios.dll
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\AccesoDatos.dll.config
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Diamond\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Diamond\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Diamond\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Diamond\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Dell\Desktop\Diamond\Negocios\obj\Debug\Negocios.dll
+C:\Users\Dell\Desktop\Diamond\Negocios\obj\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\obj\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\obj\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond\Diamond\Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\Negocios.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\Entidades.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\AccesoDatos.dll.config
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\Entidades.pdb
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.dll
+C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Negocios.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\AccesoDatos.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Entidades.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\EntityFramework.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\AccesoDatos.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\AccesoDatos.dll.config
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\EntityFramework.xml
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.pdb

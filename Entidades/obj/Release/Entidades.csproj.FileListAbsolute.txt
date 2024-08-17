@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\bin\Release\Entidades.dll
+C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\bin\Release\Entidades.pdb
+C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.dll
+C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.pdb

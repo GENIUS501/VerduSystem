@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f7667e9849274540bc097ba315952798" Name="Diagram1">
+        <EntityTypeShape EntityType="DiamondModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Bitacora_Movimientos" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Bitacora_Sesiones" Width="1.5" PointX="5.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Clientes" Width="1.5" PointX="6" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Devoluciones" Width="1.5" PointX="8.25" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Permisos" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Productos" Width="1.5" PointX="8.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Roles" Width="1.5" PointX="0.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Tipo_Productos" Width="1.5" PointX="6" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Usuarios" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Venta" Width="1.5" PointX="8.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiamondModel.Tab_Venta_detallada" Width="1.5" PointX="10.5" PointY="6.125" IsExpanded="true" />
+        <AssociationConnector Association="DiamondModel.Fk_MOVIMIENTOS_USUARIOS" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_SESIONES_USUARIOS" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_Devoluciones_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_VENTAS_CLIENTES" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_Devoluciones_Usuario" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_Devoluciones_Venta" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_PERMISOS_ROLES" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_DETALLE_PRODUCTOS" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_PRODUCTOS_TIPO" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_USUARIOS_ROLES" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_VENTAS_USUARIOS" ManuallyRouted="false" />
+        <AssociationConnector Association="DiamondModel.Fk_DETALLE_VENTAS" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

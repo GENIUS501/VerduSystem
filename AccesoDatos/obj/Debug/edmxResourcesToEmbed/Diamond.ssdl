@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DiamondModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tab_Bitacora_Movimientos">
+    <Key>
+      <PropertyRef Name="codigo_movimiento_usuario" />
+    </Key>
+    <Property Name="codigo_movimiento_usuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha_hora_movimiento" Type="datetime" Nullable="false" />
+    <Property Name="tipo_movimiento" Type="varchar" MaxLength="50" />
+    <Property Name="modulo" Type="varchar" MaxLength="20" />
+    <Property Name="Id_Usuario" Type="int" />
+  </EntityType>
+  <EntityType Name="Tab_Bitacora_Sesiones">
+    <Key>
+      <PropertyRef Name="codigo_ingreso_salida" />
+    </Key>
+    <Property Name="codigo_ingreso_salida" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha_hora_ingreso" Type="datetime" Nullable="false" />
+    <Property Name="fecha_hora_salida" Type="datetime" />
+    <Property Name="Id_Usuario" Type="int" />
+  </EntityType>
+  <EntityType Name="Tab_Clientes">
+    <Key>
+      <PropertyRef Name="Numero_Cliente" />
+    </Key>
+    <Property Name="Numero_Cliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cedula" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Primer_Apellido" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Segundo_Apellido" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Direccion" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Telefono" Type="int" />
+    <Property Name="Correo" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tab_Devoluciones">
+    <Key>
+      <PropertyRef Name="IdDevolucion" />
+    </Key>
+    <Property Name="IdDevolucion" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdVenta" Type="int" Nullable="false" />
+    <Property Name="IDCliente" Type="int" Nullable="false" />
+    <Property Name="FechaDevolucion" Type="datetime" Nullable="false" />
+    <Property Name="CantidadProducto" Type="float" Nullable="false" />
+    <Property Name="IdUsuario" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tab_Permisos">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Modulo" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Accion" Type="varchar" MaxLength="27" />
+    <Property Name="Id_Rol" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tab_Productos">
+    <Key>
+      <PropertyRef Name="ID_Producto" />
+    </Key>
+    <Property Name="ID_Producto" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Descripcion" Type="text" Nullable="false" />
+    <Property Name="ID_Tipo_Producto" Type="int" Nullable="false" />
+    <Property Name="Precio" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Cantidad" Type="int" Nullable="false" />
+    <Property Name="Imagen" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tab_Roles">
+    <Key>
+      <PropertyRef Name="Id_Rol" />
+    </Key>
+    <Property Name="Id_Rol" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_Rol" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="Tab_Tipo_Productos">
+    <Key>
+      <PropertyRef Name="ID_Tipo_Producto" />
+    </Key>
+    <Property Name="ID_Tipo_Producto" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Descripcion" Type="text" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tab_Usuarios">
+    <Key>
+      <PropertyRef Name="ID_Usuario" />
+    </Key>
+    <Property Name="ID_Usuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Cedula" Type="varchar" MaxLength="12" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Primer_Apellido" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Segundo_Apellido" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Nombre_Usuario" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="Id_Rol" Type="int" Nullable="false" />
+    <Property Name="Contrasena" Type="varchar(max)" Nullable="false" />
+    <Property Name="Estado" Type="int" Nullable="false" />
+    <Property Name="Telefono" Type="varchar" MaxLength="8" />
+    <Property Name="Correo" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tab_Venta">
+    <Key>
+      <PropertyRef Name="Numero_factura" />
+    </Key>
+    <Property Name="ID_Usuario" Type="int" Nullable="false" />
+    <Property Name="ID_Cliente" Type="int" Nullable="false" />
+    <Property Name="Tipo_pago" Type="varchar" MaxLength="8" Nullable="false" />
+    <Property Name="Numero_factura" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CantidadProducto" Type="float" Nullable="false" />
+    <Property Name="Fecha_venta" Type="datetime" Nullable="false" />
+    <Property Name="Total" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tab_Venta_detallada">
+    <Key>
+      <PropertyRef Name="Numero_factura" />
+      <PropertyRef Name="ID_Producto" />
+      <PropertyRef Name="Linea" />
+    </Key>
+    <Property Name="Numero_factura" Type="int" Nullable="false" />
+    <Property Name="ID_Producto" Type="int" Nullable="false" />
+    <Property Name="Linea" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="Fk_DETALLE_PRODUCTOS">
+    <End Role="Tab_Productos" Type="Self.Tab_Productos" Multiplicity="1" />
+    <End Role="Tab_Venta_detallada" Type="Self.Tab_Venta_detallada" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Productos">
+        <PropertyRef Name="ID_Producto" />
+      </Principal>
+      <Dependent Role="Tab_Venta_detallada">
+        <PropertyRef Name="ID_Producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_DETALLE_VENTAS">
+    <End Role="Tab_Venta" Type="Self.Tab_Venta" Multiplicity="1" />
+    <End Role="Tab_Venta_detallada" Type="Self.Tab_Venta_detallada" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Venta">
+        <PropertyRef Name="Numero_factura" />
+      </Principal>
+      <Dependent Role="Tab_Venta_detallada">
+        <PropertyRef Name="Numero_factura" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_Devoluciones_Cliente">
+    <End Role="Tab_Clientes" Type="Self.Tab_Clientes" Multiplicity="1" />
+    <End Role="Tab_Devoluciones" Type="Self.Tab_Devoluciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Clientes">
+        <PropertyRef Name="Numero_Cliente" />
+      </Principal>
+      <Dependent Role="Tab_Devoluciones">
+        <PropertyRef Name="IDCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_Devoluciones_Usuario">
+    <End Role="Tab_Usuarios" Type="Self.Tab_Usuarios" Multiplicity="1" />
+    <End Role="Tab_Devoluciones" Type="Self.Tab_Devoluciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Usuarios">
+        <PropertyRef Name="ID_Usuario" />
+      </Principal>
+      <Dependent Role="Tab_Devoluciones">
+        <PropertyRef Name="IdUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_Devoluciones_Venta">
+    <End Role="Tab_Venta" Type="Self.Tab_Venta" Multiplicity="1" />
+    <End Role="Tab_Devoluciones" Type="Self.Tab_Devoluciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Venta">
+        <PropertyRef Name="Numero_factura" />
+      </Principal>
+      <Dependent Role="Tab_Devoluciones">
+        <PropertyRef Name="IdVenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_MOVIMIENTOS_USUARIOS">
+    <End Role="Tab_Usuarios" Type="Self.Tab_Usuarios" Multiplicity="0..1" />
+    <End Role="Tab_Bitacora_Movimientos" Type="Self.Tab_Bitacora_Movimientos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Usuarios">
+        <PropertyRef Name="ID_Usuario" />
+      </Principal>
+      <Dependent Role="Tab_Bitacora_Movimientos">
+        <PropertyRef Name="Id_Usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_PERMISOS_ROLES">
+    <End Role="Tab_Roles" Type="Self.Tab_Roles" Multiplicity="1" />
+    <End Role="Tab_Permisos" Type="Self.Tab_Permisos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Roles">
+        <PropertyRef Name="Id_Rol" />
+      </Principal>
+      <Dependent Role="Tab_Permisos">
+        <PropertyRef Name="Id_Rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_PRODUCTOS_TIPO">
+    <End Role="Tab_Tipo_Productos" Type="Self.Tab_Tipo_Productos" Multiplicity="1" />
+    <End Role="Tab_Productos" Type="Self.Tab_Productos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Tipo_Productos">
+        <PropertyRef Name="ID_Tipo_Producto" />
+      </Principal>
+      <Dependent Role="Tab_Productos">
+        <PropertyRef Name="ID_Tipo_Producto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_SESIONES_USUARIOS">
+    <End Role="Tab_Usuarios" Type="Self.Tab_Usuarios" Multiplicity="0..1" />
+    <End Role="Tab_Bitacora_Sesiones" Type="Self.Tab_Bitacora_Sesiones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Usuarios">
+        <PropertyRef Name="ID_Usuario" />
+      </Principal>
+      <Dependent Role="Tab_Bitacora_Sesiones">
+        <PropertyRef Name="Id_Usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_USUARIOS_ROLES">
+    <End Role="Tab_Roles" Type="Self.Tab_Roles" Multiplicity="1" />
+    <End Role="Tab_Usuarios" Type="Self.Tab_Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Roles">
+        <PropertyRef Name="Id_Rol" />
+      </Principal>
+      <Dependent Role="Tab_Usuarios">
+        <PropertyRef Name="Id_Rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_VENTAS_CLIENTES">
+    <End Role="Tab_Clientes" Type="Self.Tab_Clientes" Multiplicity="1" />
+    <End Role="Tab_Venta" Type="Self.Tab_Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Clientes">
+        <PropertyRef Name="Numero_Cliente" />
+      </Principal>
+      <Dependent Role="Tab_Venta">
+        <PropertyRef Name="ID_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Fk_VENTAS_USUARIOS">
+    <End Role="Tab_Usuarios" Type="Self.Tab_Usuarios" Multiplicity="1" />
+    <End Role="Tab_Venta" Type="Self.Tab_Venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Tab_Usuarios">
+        <PropertyRef Name="ID_Usuario" />
+      </Principal>
+      <Dependent Role="Tab_Venta">
+        <PropertyRef Name="ID_Usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DiamondModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Bitacora_Movimientos" EntityType="Self.Tab_Bitacora_Movimientos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Bitacora_Sesiones" EntityType="Self.Tab_Bitacora_Sesiones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Clientes" EntityType="Self.Tab_Clientes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Devoluciones" EntityType="Self.Tab_Devoluciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Permisos" EntityType="Self.Tab_Permisos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Productos" EntityType="Self.Tab_Productos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Roles" EntityType="Self.Tab_Roles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Tipo_Productos" EntityType="Self.Tab_Tipo_Productos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Usuarios" EntityType="Self.Tab_Usuarios" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Venta" EntityType="Self.Tab_Venta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tab_Venta_detallada" EntityType="Self.Tab_Venta_detallada" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="Fk_DETALLE_PRODUCTOS" Association="Self.Fk_DETALLE_PRODUCTOS">
+      <End Role="Tab_Productos" EntitySet="Tab_Productos" />
+      <End Role="Tab_Venta_detallada" EntitySet="Tab_Venta_detallada" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_DETALLE_VENTAS" Association="Self.Fk_DETALLE_VENTAS">
+      <End Role="Tab_Venta" EntitySet="Tab_Venta" />
+      <End Role="Tab_Venta_detallada" EntitySet="Tab_Venta_detallada" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_Devoluciones_Cliente" Association="Self.Fk_Devoluciones_Cliente">
+      <End Role="Tab_Clientes" EntitySet="Tab_Clientes" />
+      <End Role="Tab_Devoluciones" EntitySet="Tab_Devoluciones" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_Devoluciones_Usuario" Association="Self.Fk_Devoluciones_Usuario">
+      <End Role="Tab_Usuarios" EntitySet="Tab_Usuarios" />
+      <End Role="Tab_Devoluciones" EntitySet="Tab_Devoluciones" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_Devoluciones_Venta" Association="Self.Fk_Devoluciones_Venta">
+      <End Role="Tab_Venta" EntitySet="Tab_Venta" />
+      <End Role="Tab_Devoluciones" EntitySet="Tab_Devoluciones" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_MOVIMIENTOS_USUARIOS" Association="Self.Fk_MOVIMIENTOS_USUARIOS">
+      <End Role="Tab_Usuarios" EntitySet="Tab_Usuarios" />
+      <End Role="Tab_Bitacora_Movimientos" EntitySet="Tab_Bitacora_Movimientos" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_PERMISOS_ROLES" Association="Self.Fk_PERMISOS_ROLES">
+      <End Role="Tab_Roles" EntitySet="Tab_Roles" />
+      <End Role="Tab_Permisos" EntitySet="Tab_Permisos" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_PRODUCTOS_TIPO" Association="Self.Fk_PRODUCTOS_TIPO">
+      <End Role="Tab_Tipo_Productos" EntitySet="Tab_Tipo_Productos" />
+      <End Role="Tab_Productos" EntitySet="Tab_Productos" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_SESIONES_USUARIOS" Association="Self.Fk_SESIONES_USUARIOS">
+      <End Role="Tab_Usuarios" EntitySet="Tab_Usuarios" />
+      <End Role="Tab_Bitacora_Sesiones" EntitySet="Tab_Bitacora_Sesiones" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_USUARIOS_ROLES" Association="Self.Fk_USUARIOS_ROLES">
+      <End Role="Tab_Roles" EntitySet="Tab_Roles" />
+      <End Role="Tab_Usuarios" EntitySet="Tab_Usuarios" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_VENTAS_CLIENTES" Association="Self.Fk_VENTAS_CLIENTES">
+      <End Role="Tab_Clientes" EntitySet="Tab_Clientes" />
+      <End Role="Tab_Venta" EntitySet="Tab_Venta" />
+    </AssociationSet>
+    <AssociationSet Name="Fk_VENTAS_USUARIOS" Association="Self.Fk_VENTAS_USUARIOS">
+      <End Role="Tab_Usuarios" EntitySet="Tab_Usuarios" />
+      <End Role="Tab_Venta" EntitySet="Tab_Venta" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
