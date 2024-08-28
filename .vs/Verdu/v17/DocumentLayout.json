@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|c:\\users\\admin\\documents\\verdusystem-main\\verdusystem-main\\verdu\\ayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|solutionrelative:verdu\\ayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|c:\\users\\admin\\documents\\verdusystem-main\\verdusystem-main\\verdu\\ayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|solutionrelative:verdu\\ayuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|c:\\users\\admin\\documents\\verdusystem-main\\verdusystem-main\\verdu\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|solutionrelative:verdu\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\verdu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}|Verdu\\Verdu.csproj|solutionrelative:verdu\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\Login.cs",
+              "RelativeDocumentMoniker": "Verdu\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Verdu\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:23:32.751Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ayuda.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\Ayuda.cs",
+              "RelativeDocumentMoniker": "Verdu\\Ayuda.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\Ayuda.cs",
+              "RelativeToolTip": "Verdu\\Ayuda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:22:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ayuda.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\Ayuda.cs",
+              "RelativeDocumentMoniker": "Verdu\\Ayuda.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\Ayuda.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Verdu\\Ayuda.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:16:56.204Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\About.cs",
+              "RelativeDocumentMoniker": "Verdu\\About.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\VerduSystem-main\\VerduSystem-main\\Verdu\\About.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Verdu\\About.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:09:10.477Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

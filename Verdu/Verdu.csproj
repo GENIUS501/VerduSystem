@@ -335,6 +335,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\PAZVERDUSYSTEM %281%29.jpg" />
+    <None Include="Resources\PAZVERDUSYSTEM %282%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
