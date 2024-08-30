@@ -1,6 +1,6 @@
-CREATE DATABASE Diamond
+CREATE DATABASE Verdu
 GO
-Use Diamond
+Use Verdu
 go
 create table Tab_Roles(
 	Id_Rol int IDENTITY(1,1) primary key,
@@ -25,6 +25,7 @@ CREATE TABLE Tab_Usuarios(
 	Estado INT NOT NULL,
 	Telefono VARCHAR(8) NULL,
 	Correo VARCHAR(30) NOT NULL,
+	Sexo BIT NULL,
 	CONSTRAINT Fk_USUARIOS_ROLES FOREIGN KEY(Id_Rol) REFERENCES Tab_Roles(Id_Rol),
 );
 CREATE TABLE Tab_Clientes(

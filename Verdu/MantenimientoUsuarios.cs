@@ -259,6 +259,14 @@ namespace Diamond
                 }
                 );
                 this.cbo_rol.DataSource = RolesDataSource.ToArray();
+                this.cbo_Sexo.DisplayMember = "Text";
+                this.cbo_Sexo.ValueMember = "Value";
+                List<dynamic> Generos = new List<dynamic> {
+                new { Text = "Femenino", Value = false },
+                new { Text = "Masculino", Value = true }
+            };
+                var GenerosArray = Generos.Select(x => new { x.Text, x.Value }).ToArray();
+                this.cbo_Sexo.DataSource = GenerosArray;
                 if (Accion == "M" || Accion == "C")
                 {
                     this.txt_cclave.Visible = false;
