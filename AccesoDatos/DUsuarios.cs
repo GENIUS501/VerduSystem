@@ -29,7 +29,7 @@ namespace AccesoDatos
                     Objbd.Segundo_Apellido = obj.Segundo_Apellido;
                     Objbd.Correo = obj.Correo;
                     Objbd.Telefono = obj.Telefono;
-                    //Objbd.Genero = obj.Genero;
+                   // Objbd.Sexo = obj.Sexo;
                     Objbd.Id_Rol = obj.Id_Rol;
                     Objbd.Estado = 1;
                     Objbd.Contrasena = obj.Contrasena;

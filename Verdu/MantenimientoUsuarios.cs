@@ -183,6 +183,7 @@ namespace Diamond
                         Obj.Primer_Apellido = this.txt_apellido1.Text;
                         Obj.Segundo_Apellido = this.txt_apellido2.Text;
                         Obj.Id_Rol = int.Parse(this.cbo_rol.SelectedValue.ToString());
+                        Obj.Sexo = bool.Parse(this.cbo_Sexo.SelectedValue.ToString());
                         Obj.Correo = this.txt_correo.Text;
                         Obj.Telefono = this.txt_telefono.Text;
                         //Obj.Correo = this.txt_correo.Text;
