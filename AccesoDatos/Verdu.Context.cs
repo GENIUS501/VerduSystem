@@ -13,10 +13,10 @@ namespace AccesoDatos
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class DiamondEntities : DbContext
+    public partial class VerduEntities : DbContext
     {
-        public DiamondEntities()
-            : base("name=DiamondEntities")
+        public VerduEntities()
+            : base("name=VerduEntities")
         {
         }
     
@@ -25,7 +25,6 @@ namespace AccesoDatos
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
         public virtual DbSet<Tab_Bitacora_Movimientos> Tab_Bitacora_Movimientos { get; set; }
         public virtual DbSet<Tab_Bitacora_Sesiones> Tab_Bitacora_Sesiones { get; set; }
         public virtual DbSet<Tab_Clientes> Tab_Clientes { get; set; }

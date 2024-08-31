@@ -11,7 +11,7 @@ namespace AccesoDatos
 {
     public class DUsuarios
     {
-        DiamondEntities db = new DiamondEntities();
+        VerduEntities db = new VerduEntities();
         EBitacora_Movimientos Entidad_Movimientos = new EBitacora_Movimientos();
         DBitacora_movimientos Movimientos = new DBitacora_movimientos();
         #region Agregar
@@ -29,7 +29,7 @@ namespace AccesoDatos
                     Objbd.Segundo_Apellido = obj.Segundo_Apellido;
                     Objbd.Correo = obj.Correo;
                     Objbd.Telefono = obj.Telefono;
-                   // Objbd.Sexo = obj.Sexo;
+                    Objbd.Sexo = obj.Sexo;
                     Objbd.Id_Rol = obj.Id_Rol;
                     Objbd.Estado = 1;
                     Objbd.Contrasena = obj.Contrasena;
@@ -72,7 +72,7 @@ namespace AccesoDatos
                     Objbd.Nombre_Usuario = obj.Nombre_Usuario;
                     Objbd.Primer_Apellido = obj.Primer_Apellido;
                     Objbd.Segundo_Apellido = obj.Segundo_Apellido;
-                    //Objbd.Genero = obj.Genero;
+                    Objbd.Sexo = obj.Sexo;
                     Objbd.Id_Rol = obj.Id_Rol;
                     Objbd.Correo = obj.Correo;
                     Objbd.Telefono = obj.Telefono;
@@ -156,7 +156,7 @@ namespace AccesoDatos
                     Primer_Apellido = x.Primer_Apellido,
                     Segundo_Apellido = x.Segundo_Apellido,
                     Nombre_Usuario = x.Nombre_Usuario,
-                    //Genero = x.Genero,
+                    Sexo = x.Sexo??false,
                     Id_Rol = x.Id_Rol,
                  //   Estado = x.Estado,
                     Contrasena = x.Contrasena,

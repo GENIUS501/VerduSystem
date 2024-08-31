@@ -11,7 +11,7 @@ namespace AccesoDatos
 {
     public class DBitacora_Sesiones
     {
-        DiamondEntities db = new DiamondEntities();
+        VerduEntities db = new VerduEntities();
         #region Agregar
         public int Agregar(EBitacora_Sesiones obj)//Viene de la vista Obj
         {

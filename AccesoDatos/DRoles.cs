@@ -11,7 +11,7 @@ namespace AccesoDatos
 {
     public class DRoles
     {
-        DiamondEntities db = new DiamondEntities();
+        VerduEntities db = new VerduEntities();
         EBitacora_Movimientos Entidad_Movimientos = new EBitacora_Movimientos();
         DBitacora_movimientos Movimientos = new DBitacora_movimientos();
         #region Agregar

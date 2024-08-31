@@ -1,61 +1,55 @@
-﻿namespace Diamond
+﻿using Entidades;
+using Microsoft.Reporting.WinForms;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Diamond
 {
-    partial class Visor_Factura
+    public partial class Visor_Factura : Form
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
-        private System.ComponentModel.IContainer components = null;
-
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
-                components.Dispose();
-            }
-            base.Dispose(disposing);
-        }
-
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
-        private void InitializeComponent()
-        {
-            this.reportViewer1 = new Microsoft.Reporting.WinForms.ReportViewer();
-            this.SuspendLayout();
-            // 
-            // reportViewer1
-            // 
-            this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.reportViewer1.LocalReport.ReportEmbeddedResource = "Verdu.Factura.rdlc";
-            this.reportViewer1.Location = new System.Drawing.Point(0, 0);
-            this.reportViewer1.Name = "reportViewer1";
-            this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(800, 450);
-            this.reportViewer1.TabIndex = 0;
-            // 
-            // Visor_Factura
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.reportViewer1);
-            this.Name = "Visor_Factura";
-            this.Text = "Visor_Factura";
-            this.Load += new System.EventHandler(this.Visor_Factura_Load);
-            this.ResumeLayout(false);
-
-        }
-
+        #region Variables
+        public string Usuario { get; set; }
+        public string Total { get; set; }
+        public string Num_Fact { get; set; }
+        public string Cantidad_Lineas { get; set; }
+        public string Cliente { get; set; }
+        public string TipoPago { get; set; }
+        public List<EReporte_Ventas_Detalles> ListaFina { get; set; }
         #endregion
+        public Visor_Factura()
+        {
+            InitializeComponent();
+        }
 
-        private Microsoft.Reporting.WinForms.ReportViewer reportViewer1;
+        private void Visor_Factura_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                ReportDataSource Rds = new ReportDataSource("DataSet1", ListaFina);
+                this.reportViewer1.LocalReport.DataSources.Clear();
+                this.reportViewer1.LocalReport.DataSources.Add(Rds);
+                ReportParameter[] parameters = new ReportParameter[7];
+                parameters[0] = new ReportParameter("Usuario", Usuario.ToString());
+                parameters[1] = new ReportParameter("Total", Total.ToString());
+                parameters[2] = new ReportParameter("Num_Fact", Num_Fact.ToString());
+                parameters[3] = new ReportParameter("Cantidad_Lineas", Cantidad_Lineas.ToString());
+                parameters[4] = new ReportParameter("FechaVenta", DateTime.Now.ToString());
+                parameters[5] = new ReportParameter("Cliente", "Paciente: "+Cliente);
+                parameters[6] = new ReportParameter("TipoPago", TipoPago);
+                reportViewer1.LocalReport.SetParameters(parameters);
+                this.reportViewer1.RefreshReport();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString(), "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }

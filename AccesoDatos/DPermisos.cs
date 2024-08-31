@@ -10,7 +10,7 @@ namespace AccesoDatos
 {
     public class DPermisos
     {
-        DiamondEntities db = new DiamondEntities();
+        VerduEntities db = new VerduEntities();
         #region Agregar
         public int Agregar(List<EPermisos> obj, int Id_Rol)//Viene de la vista obj
         {

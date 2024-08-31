@@ -37,6 +37,7 @@ namespace Diamond
             this.txt_clave.Text = "********";
             this.txt_user.Text = Obj.Nombre_Usuario;
             this.cbo_rol.SelectedValue = Obj.Id_Rol;
+            this.cbo_Sexo.SelectedValue = Obj.Sexo;
             UsuarioViniente = Obj.Nombre_Usuario;
         }
         private bool validar()

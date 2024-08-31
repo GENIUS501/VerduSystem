@@ -34,6 +34,7 @@ namespace AccesoDatos
         public int Estado { get; set; }
         public string Telefono { get; set; }
         public string Correo { get; set; }
+        public Nullable<bool> Sexo { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Tab_Bitacora_Movimientos> Tab_Bitacora_Movimientos { get; set; }

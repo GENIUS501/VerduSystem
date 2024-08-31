@@ -76,21 +76,6 @@
     <Compile Include="DBitacora_Sesiones.cs" />
     <Compile Include="DClientes.cs" />
     <Compile Include="DDevoluciones.cs" />
-    <Compile Include="Diamond.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Diamond.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Diamond.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Diamond.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Diamond.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Diamond.edmx</DependentUpon>
-    </Compile>
     <Compile Include="DPermisos.cs" />
     <Compile Include="DProductos.cs" />
     <Compile Include="DRoles.cs" />
@@ -99,53 +84,65 @@
     <Compile Include="DVentas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
-    <Compile Include="sysdiagrams.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
-    </Compile>
     <Compile Include="Tab_Bitacora_Movimientos.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Bitacora_Sesiones.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Clientes.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Devoluciones.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Permisos.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Productos.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Roles.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Tipo_Productos.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Usuarios.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Venta.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
     </Compile>
     <Compile Include="Tab_Venta_detallada.cs">
-      <DependentUpon>Diamond.tt</DependentUpon>
+      <DependentUpon>Verdu.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Verdu.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Verdu.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Verdu.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Verdu.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Verdu.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Verdu.edmx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
-    <EntityDeploy Include="Diamond.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>Diamond.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="Diamond.edmx.diagram">
-      <DependentUpon>Diamond.edmx</DependentUpon>
-    </None>
     <None Include="packages.config" />
+    <EntityDeploy Include="Verdu.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Verdu.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Verdu.edmx.diagram">
+      <DependentUpon>Verdu.edmx</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
@@ -157,16 +154,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Diamond.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Diamond.edmx</DependentUpon>
-      <LastGenOutput>Diamond.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="Diamond.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Diamond.edmx</DependentUpon>
-      <LastGenOutput>Diamond.cs</LastGenOutput>
-    </Content>
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -179,6 +166,16 @@
     </Content>
     <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Verdu.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Verdu.edmx</DependentUpon>
+      <LastGenOutput>Verdu.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Verdu.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Verdu.edmx</DependentUpon>
+      <LastGenOutput>Verdu.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -10,7 +10,7 @@ namespace AccesoDatos
 {
     public class DBitacora_movimientos
     {
-        DiamondEntities db = new DiamondEntities();
+        VerduEntities db = new VerduEntities();
         #region Agregar
         public int Agregar(EBitacora_Movimientos obj)//Viene de la vista obj
         {
