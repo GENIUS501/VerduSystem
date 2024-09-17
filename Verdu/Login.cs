@@ -28,35 +28,42 @@ namespace Diamond
         {
             try
             {
-                NUsuarios Negocios = new NUsuarios();
-                EUsuario Usu = new EUsuario();
-                int Id_Session = 0;
-                string pass = Helper.EncodePassword(string.Concat(this.txt_usuario.Text.ToString(), this.txt_pass.ToString()));
-                Usu = Negocios.Login(this.txt_usuario.Text, pass);
-                if (Usu != null)
+                if (this.txt_usuario.Text == "" || this.txt_pass.Text == "")
                 {
-                    NBitacora_Sesiones Ses = new NBitacora_Sesiones();
-                    EBitacora_Sesiones EntidadSesion = new EBitacora_Sesiones();
-                    EntidadSesion.fecha_hora_ingreso = DateTime.Now;
-                    EntidadSesion.Id_Usuario = Usu.ID_Usuario;
-                    Id_Session = Ses.Agregar(EntidadSesion);
-                    if (Id_Session > 0)
-                    {
-                        this.Hide();
-                        Menu form = new Menu();
-                        form.Idsession = Id_Session;
-                        form.UsuarioLogueado = Usu;
-                        MessageBox.Show("Bienvenido: " + Usu.Nombre_Usuario, "Bienvenido", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        form.Show();
-                    }
-                    else
-                    {
-                        MessageBox.Show("Error al ingresar!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
+                    MessageBox.Show("Debe digitar los datos de acceso correctamente!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
                 else
                 {
-                    MessageBox.Show("Error usuario o contraseña invalido!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    NUsuarios Negocios = new NUsuarios();
+                    EUsuario Usu = new EUsuario();
+                    int Id_Session = 0;
+                    string pass = Helper.EncodePassword(string.Concat(this.txt_usuario.Text.ToString(), this.txt_pass.ToString()));
+                    Usu = Negocios.Login(this.txt_usuario.Text, pass);
+                    if (Usu != null)
+                    {
+                        NBitacora_Sesiones Ses = new NBitacora_Sesiones();
+                        EBitacora_Sesiones EntidadSesion = new EBitacora_Sesiones();
+                        EntidadSesion.fecha_hora_ingreso = DateTime.Now;
+                        EntidadSesion.Id_Usuario = Usu.ID_Usuario;
+                        Id_Session = Ses.Agregar(EntidadSesion);
+                        if (Id_Session > 0)
+                        {
+                            this.Hide();
+                            Menu form = new Menu();
+                            form.Idsession = Id_Session;
+                            form.UsuarioLogueado = Usu;
+                            MessageBox.Show("Bienvenido: " + Usu.Nombre_Usuario, "Bienvenido", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            form.Show();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Error al ingresar!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("Error usuario o contraseña invalido!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
                 }
             }
             catch (Exception ex)

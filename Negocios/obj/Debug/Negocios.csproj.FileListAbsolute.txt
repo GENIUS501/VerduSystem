@@ -48,21 +48,3 @@ C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocio
 C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.csproj.CopyComplete
 C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.dll
 C:\Users\50683\Desktop\Diamond-main (14)\Diamond-main\Negocios\obj\Debug\Negocios.pdb
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x64\msvcr120.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x86\msvcr120.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Negocios.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Negocios.pdb
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\AccesoDatos.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Entidades.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\EntityFramework.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\AccesoDatos.pdb
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\AccesoDatos.dll.config
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\Entidades.pdb
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\bin\Debug\EntityFramework.xml
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.csproj.CopyComplete
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.dll
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Negocios\obj\Debug\Negocios.pdb

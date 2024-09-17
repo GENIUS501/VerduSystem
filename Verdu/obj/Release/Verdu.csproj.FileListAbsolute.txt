@@ -4,6 +4,7 @@ C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\SqlServerTyp
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\x86\SqlServerSpatial160.dll
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\x64\SqlServerSpatial160.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\Ayuda.pdf
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\Verdu.exe.config
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\Verdu.exe
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\Verdu.pdb
@@ -106,4 +107,3 @@ C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\obj\Release\Verdu.csproj
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\obj\Release\Verdu.csproj.CopyComplete
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\obj\Release\Verdu.exe
 C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\obj\Release\Verdu.pdb
-C:\Users\Genius501\source\repos\Verdu\VerduSystem\Verdu\bin\Release\Ayuda.pdf

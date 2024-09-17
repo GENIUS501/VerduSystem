@@ -295,6 +295,9 @@
     <EmbeddedResource Include="Visor_Factura.resx">
       <DependentUpon>Visor_Factura.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Ayuda.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="DataSet1.xsc">
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </None>
@@ -332,9 +335,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\PAZVERDUSYSTEM %281%29.jpg" />
-    <None Include="Ayuda.pdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="Resources\PAZVERDUSYSTEM %282%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
