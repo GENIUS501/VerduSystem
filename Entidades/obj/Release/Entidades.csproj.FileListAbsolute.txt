@@ -4,3 +4,9 @@ C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.c
 C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.dll
 C:\Users\Dell\source\repos\Diamond-Git\Diamond\Entidades\obj\Release\Entidades.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\bin\Release\Entidades.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\bin\Release\Entidades.pdb
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Release\Entidades.dll
+C:\Users\Genius501\source\repos\Verdu\VerduSystem\Entidades\obj\Release\Entidades.pdb
