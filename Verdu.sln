@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocios", "Negocios\Negoci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{90B928AA-766E-4675-8898-C287300240B5}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C602BC6B-3346-47AB-8870-5D86CD6D4798}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verdu", "Verdu\Verdu.csproj", "{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}"
 EndProject
 Global
@@ -31,8 +29,6 @@ Global
 		{90B928AA-766E-4675-8898-C287300240B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B928AA-766E-4675-8898-C287300240B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B928AA-766E-4675-8898-C287300240B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C602BC6B-3346-47AB-8870-5D86CD6D4798}.Debug|Any CPU.ActiveCfg = Debug
-		{C602BC6B-3346-47AB-8870-5D86CD6D4798}.Release|Any CPU.ActiveCfg = Release
 		{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
