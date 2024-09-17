@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Enti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verdu", "Verdu\Verdu.csproj", "{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VerduSetup", "VerduSetup\VerduSetup.vdproj", "{276B638D-5F6C-4378-ADDF-99DB1B0B9A58}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VerduSystem", "VerduSystem\VerduSystem.vdproj", "{07A1261D-C4FA-456F-A1D9-C875E8DC0973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,8 +35,8 @@ Global
 		{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2DF4CE-59E8-4171-9A32-CEB962465DE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{276B638D-5F6C-4378-ADDF-99DB1B0B9A58}.Debug|Any CPU.ActiveCfg = Debug
-		{276B638D-5F6C-4378-ADDF-99DB1B0B9A58}.Release|Any CPU.ActiveCfg = Release
+		{07A1261D-C4FA-456F-A1D9-C875E8DC0973}.Debug|Any CPU.ActiveCfg = Debug
+		{07A1261D-C4FA-456F-A1D9-C875E8DC0973}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

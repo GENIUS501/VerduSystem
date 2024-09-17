@@ -332,7 +332,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\PAZVERDUSYSTEM %281%29.jpg" />
-    <None Include="Resources\Ayuda.pdf">
+    <None Include="Ayuda.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Resources\PAZVERDUSYSTEM %282%29.png" />
